@@ -43,7 +43,7 @@ h1 {
     font-weight: bold;
 }
 
-titlepage {
+.titlepage {
     padding-bottom: 20px;
     text-align: right;
 }
